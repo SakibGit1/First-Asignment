@@ -63,7 +63,7 @@
     padding-right: 50px;
     border: none;
     border-radius: 5px;
-    background-color: gray;
+    background-color: rgb(219, 209, 209);
 }
 .dlv-img-1{
    padding-left: 80px;
@@ -77,4 +77,37 @@
 }
 .deliver-title{
     padding-top: 20px;
+}
+/* Hot Deal section style */
+.hot-deal-section{
+    background-color: antiquewhite;
+    height: 400px;
+    width: 100%;
+    margin-top: 100px ;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+.hot-deal-img{
+    width: 200px;
+    padding-right: 300px;
+}
+.hot-text{
+    width: 500px;
+    padding-top: 25px;
+    color: gray;
+    text-align: center;
+    
+}
+.sign-btn{
+    margin-top: 20px;
+}
+.hot-title{
+    font-size:30px;
+}
+.hot-left{
+    padding-top: 70px;
 }
