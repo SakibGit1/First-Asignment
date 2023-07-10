@@ -29,9 +29,10 @@
     margin-top: 50px;
     margin-right: 120px;
 }
-.header-description{
+.header-description, primary-description{
     width: 500px;
     padding-top: 25px;
+    color: gray;
 }
 .btn-primary{
     width: 110px;
@@ -40,7 +41,40 @@
     color: white;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 .shop-btn{
    margin-top: 15px;
+}
+
+/* Delivery section style */
+.delivery-img{
+    width: 60px;
+}
+.delivery-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 70%;
+    height: 180px;
+    margin: auto;
+    margin-top: 100px;
+    padding-left: 50px ;
+    padding-right: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: gray;
+}
+.dlv-img-1{
+   padding-left: 80px;
+}
+.dlv-img-2{
+   padding-left: 70px;
+}
+.dlv-img-3{
+   padding-left: 30px;
+   /* padding-top: 30px; */
+}
+.deliver-title{
+    padding-top: 20px;
 }
