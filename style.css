@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-section{
+   background-color: rgb(247, 172, 183);
+   background-position: center;
+   background-size: cover;
+   height: 80vh;
+   width: 100%;
+   display: flex;
+   /* justify-content: center; */
+   align-items: center;
+   justify-content: space-around;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+.header-title{
+    font-size: 50px;
+
+}
+.header-left-side{
+    width: 400px;
+    /* padding-top: 20px; */
+}
+.header-image{
+    width: 400px;
+    margin-top: 50px;
+}
+.header-description{
+    width: 500px;
+    padding-top: 25px;
+}
+.btn-primary{
+    width: 110px;
+    padding: 13px;
+    background-color:rgb(243, 83, 110);
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.shop-btn{
+   margin-top: 15px;
+}
