@@ -157,8 +157,9 @@
     height: 280px;
     margin: auto;
     margin-bottom: 100px;
-    /* background-image: url('') */
-    background-color: aqua;
+    background-image: url("Flower\ Asset/Rectangle 9.png");
+    background-size: cover;
+    /* background-color: aqua; */
     background-position: center;
     /* padding: 20px; */
     /* display: flex; */
